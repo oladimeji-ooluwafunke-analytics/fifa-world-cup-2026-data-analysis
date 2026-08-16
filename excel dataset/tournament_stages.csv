@@ -1,0 +1,8 @@
+stage_id,stage_name,is_knockout
+1,Group Stage,FALSE
+2,Round of 32,TRUE
+3,Round of 16,TRUE
+4,Quarter-finals,TRUE
+5,Semi-finals,TRUE
+6,Third-place match,TRUE
+7,Final,TRUE

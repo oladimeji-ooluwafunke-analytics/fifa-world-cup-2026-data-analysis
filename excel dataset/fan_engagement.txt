@@ -1,0 +1,17 @@
+Country,CountryCode,Attendance_M,TV_Viewers_M,Digital_Views_M
+United States,USA,3.8,600,2500
+Mexico,MEX,1.8,400,1200
+Canada,CAN,1.2,100,500
+China,CHN,0.0,1200,4000
+Brazil,BRA,0.0,500,2000
+Russia,RUS,0.0,350,1500
+Argentina,ARG,0.0,350,1200
+United Kingdom,GBR,0.0,300,1800
+France,FRA,0.0,300,1200
+Spain,ESP,0.0,300,1100
+Nigeria,NGA,0.0,250,1000
+Japan,JPN,0.0,250,800
+South Africa,ZAF,0.0,150,500
+Australia,AUS,0.0,50,300
+Tunisia,TUN,0.0,50,200
+DR Congo,COD,0.0,50,200

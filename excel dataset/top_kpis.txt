@@ -1,0 +1,6 @@
+Metric,Value
+Matches Played,104
+Goals Scored,257
+Shots on Target,964
+Saves,682
+Attendance,5.4M
