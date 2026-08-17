@@ -364,15 +364,17 @@ For example:
 The biggest lesson from the project was that data analysis is more than dashboard design. The process involves understanding the data, asking the right questions, selecting appropriate calculations, validating the results and communicating the findings clearly.
 
 ## 10. Dashboard Screenshots
+### Tournament Overview
+![Tournament Overview](sceenshots/Screenshot%202026-08-16%20112047.png)
 
-Tournament Overview
+### Team Analysis
+![Team Analysis](sceenshots/Screenshot%202026-08-16%20112109.png)
 
+### Player Analysis
+![Player Analysis](sceenshots/Screenshot%202026-08-16%20112131.png)
 
-Team Analysis
-
-Player Analysis
-
-Fan Engagement & Financial Analysis
+### Fan Engagement & Financial Analysis
+![Fan Engagement & Financial Analysis](sceenshots/Screenshot%202026-08-16%20112152.png)
 
 
 
